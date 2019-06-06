@@ -31,3 +31,7 @@
 - [Announcing the Blockstack Token Whitepaper](https://blog.blockstack.org/announcing-the-blockstack-token-whitepaper/)
 
 - [How App Mining Works](https://blog.blockstack.org/app-mining-game-theory-algorithm-design/)
+
+#### 
+
+- [Encrypted Token Portfolio Bounty Recap](https://blog.blockstack.org/encrypted-token-portfolio-bounty-recap/)
