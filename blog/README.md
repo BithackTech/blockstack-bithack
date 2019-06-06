@@ -32,6 +32,6 @@
 
 - [How App Mining Works](https://blog.blockstack.org/app-mining-game-theory-algorithm-design/)
 
-#### 
+#### Other
 
 - [Encrypted Token Portfolio Bounty Recap](https://blog.blockstack.org/encrypted-token-portfolio-bounty-recap/)
